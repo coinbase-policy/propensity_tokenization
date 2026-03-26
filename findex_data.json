@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Nigeria",
+    "iso2": "NG",
+    "account_ownership_pct": 63.2613514491542,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 2.0
+  },
+  {
+    "country": "Argentina",
+    "iso2": "AR",
+    "account_ownership_pct": 81.7442446865007,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 10.0
+  },
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "account_ownership_pct": 87.581225854266,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 12.0
+  },
+  {
+    "country": "Pakistan",
+    "iso2": "PK",
+    "account_ownership_pct": 27.2960071761925,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 1.0
+  },
+  {
+    "country": "Ethiopia",
+    "iso2": "ET",
+    "account_ownership_pct": 48.8302767819942,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 0.5
+  },
+  {
+    "country": "Brazil",
+    "iso2": "BR",
+    "account_ownership_pct": 86.3811782311541,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 20.0
+  },
+  {
+    "country": "Vietnam",
+    "iso2": "VN",
+    "account_ownership_pct": 70.5507533567583,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 3.0
+  },
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "account_ownership_pct": 56.3278493718021,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 4.0
+  },
+  {
+    "country": "Egypt",
+    "iso2": "EG",
+    "account_ownership_pct": 43.1134368034247,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 2.0
+  },
+  {
+    "country": "Venezuela",
+    "iso2": "VE",
+    "account_ownership_pct": 87.3184627954851,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 1.5
+  },
+  {
+    "country": "India",
+    "iso2": "IN",
+    "account_ownership_pct": 89.0248224502547,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 8.0
+  },
+  {
+    "country": "Philippines",
+    "iso2": "PH",
+    "account_ownership_pct": 50.1824221429254,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 3.0
+  },
+  {
+    "country": "Turkey",
+    "iso2": "TR",
+    "account_ownership_pct": 81.5545478352063,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 10.0
+  },
+  {
+    "country": "Russia",
+    "iso2": "RU",
+    "account_ownership_pct": 79.3421267068262,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 15.0
+  },
+  {
+    "country": "Cambodia",
+    "iso2": "KH",
+    "account_ownership_pct": 39.0314428535,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 1.0
+  },
+  {
+    "country": "Morocco",
+    "iso2": "MA",
+    "account_ownership_pct": 44.3863291468524,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 3.0
+  },
+  {
+    "country": "UAE",
+    "iso2": "AE",
+    "account_ownership_pct": 85.7421930087712,
+    "account_ownership_year": "2021",
+    "investment_participation_pct": 30.0
+  },
+  {
+    "country": "China",
+    "iso2": "CN",
+    "account_ownership_pct": 89.3830319754266,
+    "account_ownership_year": "2024",
+    "investment_participation_pct": 20.0
+  }
+]
